@@ -1,6 +1,6 @@
-import Model from './model.js';
-import View from './view.js';
-import Presenter from './presenter.js';
+import Model from './model/model.js';
+import View from './view/view.js';
+import Presenter from './presenter/presenter.js';
 
 class Main {
     static init() {
